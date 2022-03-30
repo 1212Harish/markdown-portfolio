@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Welcome to the Portal*
+
+**Enter the details**
+
+_**You can combine them**_
